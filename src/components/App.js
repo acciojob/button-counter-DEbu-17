@@ -9,7 +9,7 @@ const App = () => {
   return (
     <div>
       <p>Button clicked {value} times</p>
-        <button onClick={()=>setValue(value+1)}>Click me</button>
+        <button onClick={()=>setValue(value+1)}>Clie</button>
     </div>
   )
 }
